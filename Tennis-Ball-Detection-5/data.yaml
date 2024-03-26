@@ -1,0 +1,12 @@
+names:
+- tennis-ball
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tennis-ball-detection-vmjer
+  url: https://universe.roboflow.com/joshuaglaspey-n5m2m/tennis-ball-detection-vmjer/dataset/5
+  version: 5
+  workspace: joshuaglaspey-n5m2m
+test: ../test/images
+train: Tennis-Ball-Detection-5/train/images
+val: Tennis-Ball-Detection-5/valid/images
